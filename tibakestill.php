@@ -3,7 +3,12 @@
 function generateRandomString($length = 10) {
     return substr(str_shuffle(str_repeat($x='0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ', ceil($length/strlen($x)) )),1,$length); //lager en random kode
 }
-
+$files = glob('/var/www/html/system/admin/uploads/*.php'); // Lokaliserer .php filer i uploads mappen
+foreach($files as $file){ // 
+  if(is_file($file)) {
+    unlink($file); // Sletter alle .php filer fra uploads
+  }
+}
 $webhookurl = "discordwebhook";
 
 $nykode = generateRandomString(10);
