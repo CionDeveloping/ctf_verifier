@@ -73,6 +73,9 @@ if (trim($contents) === trim($kode)){
 
     $response = curl_exec( $ch );
     curl_close( $ch );
+    $data = $navn.PHP_EOL;
+    $fp = fopen('scoreboard_database.txt', 'a');
+    fwrite($fp, $data);
     }
 else{
     echo '<h1 style="color:red">Kode er feil</h1><br>';
