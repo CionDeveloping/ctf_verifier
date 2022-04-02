@@ -1,4 +1,4 @@
-# Capture The Flag Administration System
+# Capture The Flag System
 Utviklet av Jonas Johansen @ Johansen Data
 ---------------------------------------------------
 # JD SYSTEMS - CTF ADMIN
