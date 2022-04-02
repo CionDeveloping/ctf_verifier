@@ -22,4 +22,6 @@ Utviklet av Jonas Johansen @ Johansen Data
   <li>Installasjonscript - for panel og ctf side</li>
   <li>Automatiske SSH forsøk stats</li>
   <li>Mulighet for dynamisk CTFer som åpner og lukker sikkerhetshull</li>
+  <li>Enkel discord varsel modifisering</li>
+  <li>Discord bot - med mulighet til kommunisering via botten?</li>
 </ul>
