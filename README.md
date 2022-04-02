@@ -12,7 +12,7 @@ Utviklet av Jonas Johansen @ Johansen Data
 <li>Automatisk scoreboard system</li>
 <li>100% Jukse proff - En kode kan kun brukes 1 gang</li>
 </ul>
----------------------------------------------------
+---------------------------------------------------<br/>
 # Kommer snart
 <ul>
   <li>Mer sikker datastrukturering</li>
@@ -21,4 +21,5 @@ Utviklet av Jonas Johansen @ Johansen Data
   <li>Administrator panel</li>
   <li>Installasjonscript - for panel og ctf side</li>
   <li>Automatiske SSH forsøk stats</li>
+  <li>Mulighet for dynamisk CTFer som åpner og lukker sikkerhetshull</li>
 </ul>
