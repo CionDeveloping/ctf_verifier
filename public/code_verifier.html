@@ -1,0 +1,26 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="https://cdn.rawgit.com/harvesthq/chosen/gh-pages/chosen.jquery.min.js"></script>
+<link href="https://cdn.rawgit.com/harvesthq/chosen/gh-pages/chosen.min.css" rel="stylesheet"/>
+
+    <title>JD-SYSTEM</title>
+    <link rel="stylesheet" href="static/css/code_verifier.css">
+</head>
+<body>
+    <center>
+    <h1>Johansen Data Systems - Code Verifier</h1>
+    
+    <form action="code_verifier.php" method="POST">
+        <input type="text" name="navn" id="navn" placeholder="Ditt navn... " required>
+        <input type="text" name="kode" id="kode" placeholder="Legg inn koden... " required>
+        <button type="submit">Verifiser</button>
+    </form>
+    <br>
+    <h3>Tjenesten er utviklet av Jonas Johansen - alle rettigheter reservert</h3>
+</center>
+</body>
+</html>
