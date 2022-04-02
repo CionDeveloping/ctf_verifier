@@ -13,7 +13,7 @@ Utviklet av Jonas Johansen @ Johansen Data
 <li>100% Jukse proff - En kode kan kun brukes 1 gang</li>
 </ul>
 ---------------------------------------------------
-#<b>Kommer snart</b>
+# Kommer snart
 <ul>
   <li>Mer sikker datastrukturering</li>
   <li>Lage dockerfile av dette</li>
