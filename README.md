@@ -1,6 +1,8 @@
-# ctf_verifier
-Utviklet av Jonas Johansen @ 2022 <br/>
-JOHANSEN DATA SOFTWARE | CTF VERIFICATION AND SCOREBOARD <br/>
+# Capture The Flag Administration System
+Utviklet av Jonas Johansen @ Johansen Data
+---------------------------------------------------
+# JD SYSTEMS - CTF ADMIN
+---------------------------------------------------
 <b>Funksjoner</b>
 <ul>
 <li>Automatisk kode endring hver gang noen fullfører CTFen</li>
@@ -8,5 +10,15 @@ JOHANSEN DATA SOFTWARE | CTF VERIFICATION AND SCOREBOARD <br/>
 <li>Verifisering av kode</li>
 <li>Discord varsling ved fullføring + ny kode sendt på discord</li>
 <li>Automatisk scoreboard system</li>
-<li>100% Jukse profft - En kode kan kun brukes 1 gang</li>
+<li>100% Jukse proff - En kode kan kun brukes 1 gang</li>
+</ul>
+---------------------------------------------------
+<b>Kommer snart</b>
+<ul>
+  <li>Mer sikker datastrukturering</li>
+  <li>Lage dockerfile av dette</li>
+  <li>Flere CTFer pr panel - panelet på egen maskin - ctf backen på hver ctf</li>
+  <li>Administrator panel</li>
+  <li>Installasjonscript - for panel og ctf side</li>
+  <li>Automatiske SSH forsøk stats</li>
 </ul>
