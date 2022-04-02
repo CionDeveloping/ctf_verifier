@@ -17,7 +17,7 @@ Utviklet av Jonas Johansen @ Johansen Data
 <ul>
   <li>Mer sikker datastrukturering</li>
   <li>Lage dockerfile av dette</li>
-  <li>Flere CTFer pr panel - panelet på egen maskin - ctf backen på hver ctf</li>
+  <li>Flere CTFer pr panel - panelet på egen maskin - ctf backend på hver ctf</li>
   <li>Administrator panel</li>
   <li>Installasjonscript - for panel og ctf side</li>
   <li>Automatiske SSH forsøk stats</li>
