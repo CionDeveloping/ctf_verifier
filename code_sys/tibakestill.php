@@ -36,9 +36,6 @@ $json_data = json_encode([
 
             "description" => "KODE OPPDATERING",
 
-            "url" => "http://192.168.1.87",
-
-
             "timestamp" => $timestamp,
 
             "color" => hexdec( "3366ff" ),
