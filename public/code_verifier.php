@@ -1,7 +1,6 @@
 <?php
-//JOHANSEN DATA @ 2022 | SCOREBOARD SYSTEM
+
 include '../jd_conf.php';
-//JOHANSEN DATA @ 2022 | CODE VERIFICATION SOFTWARE
 $navn = $_POST['navn'];
 $kode = $_POST['kode'];
 
