@@ -1,6 +1,5 @@
 <html lang="en">
 <head>
-    <!--JOHANSEN DATA @ 2022 | SCOREBOARD SYSTEM-->
      <!--SCOREBOARD - TOPP-->
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
