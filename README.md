@@ -1,27 +1,13 @@
-# Capture The Flag System
-Utviklet av Jonas Johansen @ Johansen Data
----------------------------------------------------
-# JD SYSTEMS - CTF ADMIN
----------------------------------------------------
-<b>Funksjoner</b>
-<ul>
-<li>Automatisk kode endring hver gang noen fullfører CTFen</li>
-<li>Automatisk resetting/sletting av filer som ikke hører til på CTFen</li>
-<li>Verifisering av kode</li>
-<li>Discord varsling ved fullføring + ny kode sendt på discord</li>
-<li>Automatisk scoreboard system</li>
-<li>100% Jukse proff - En kode kan kun brukes 1 gang</li>
-</ul>
----------------------------------------------------<br/>
-<b>Kommer snart</b>
-<ul>
-  <li>Mer sikker datastrukturering</li>
-  <li>Lage dockerfile av dette</li>
-  <li>Flere CTFer pr panel - panelet på egen maskin - ctf backend på hver ctf</li>
-  <li>Administrator panel</li>
-  <li>Installasjonscript - for panel og ctf side</li>
-  <li>Automatiske SSH forsøk stats</li>
-  <li>Mulighet for dynamisk CTFer som åpner og lukker sikkerhetshull</li>
-  <li>Enkel discord varsel modifisering</li>
-  <li>Discord bot - med mulighet til kommunisering via botten?</li>
-</ul>
+# Code Verification System
+
+This was my intro project to php.
+
+The Code Verification System is a tool designed to track and reward users who have completed a task or challenge. 
+When a user visits the website, they are prompted to enter a security code. 
+If the code is correct, the user is added to the scoreboard and a notification is sent to the administrator via Discord (using a webhook). 
+The system also has the capability to automatically generate a new code once a code has been used, and the administrator will receive a notification with the new code via Discord. 
+This system was originally developed for use in a Capture the Flag (CTF) scenario, where students could "claim" a CTF by finding and entering the correct code.
+However, it could be adapted for a variety of other use cases as well.
+
+ It is more of a teaching project for myself than a tool that is actually useful in a practical sense.
+ 
