@@ -1,6 +1,5 @@
 <?php
 include = '../jd_conf.php';
-// JOHANSEN DATA SOFTWARE @ 2022 | CTF CODE RESETTER AND VERIFIER
 function generateRandomString($length = 10) {
     return substr(str_shuffle(str_repeat($x='0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ', ceil($length/strlen($x)) )),1,$length); //lager en random kode
 }
